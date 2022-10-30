@@ -1,6 +1,6 @@
-# star7sri.github.io
 
-WWCode Datascience Mentorship Programme
+
+## WWCode Datascience Mentorship Programme
 
 # [Project 1: Time Series forecasting on JetRail Dataset](https://github.com/star7sri/timeseries_forecasting) 
 * Understood the basics of a timeseries dataset
