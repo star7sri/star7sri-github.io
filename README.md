@@ -1,8 +1,3 @@
-```
-layout: default
-title: My title page
-```
-
 # star7sri.github.io
 
 WWCode Datascience Mentorship Programme
