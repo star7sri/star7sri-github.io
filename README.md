@@ -1,6 +1,6 @@
 
 ## Acknowledgements
-Big thanks to my mentor Tomomi for guiding me throughout the course of this programme and for providing valuable inputs. Special thanks to Mansi and Runjhun and the WWCode Datascience for their continuous support and encouragement!
+Big thanks to my mentor Tomomi for guiding me throughout the course of this programme and for providing valuable inputs. Special thanks to Mansi and Runjhun and the WWCode Datascience team for their continuous support and encouragement!
 
 
 # [Project 1: Time Series forecasting on JetRail Dataset](https://github.com/star7sri/timeseries_forecasting) 
