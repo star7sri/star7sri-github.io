@@ -12,6 +12,6 @@ WWCode Datascience Mentorship Programme
 * Experimented with the fbprophet timeseries model
 
 
-# [Project 2: Exploration of Altair visualization library using BigMart Sales dataset (https://github.com/star7sri/Altair_visualizations) 
+# [Project 2: Exploration of Altair visualization library using BigMart Sales dataset] (https://github.com/star7sri/Altair_visualizations) 
 * Understood the basics of a declarative library
 * Plotted basic plots - such as bar plots,scatter plots,stacked bar plots and line charts using the library.
